@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Importação do Favicon -->
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <style>
+    
+    /* Edição básica */
+    .corpo {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* Importando fonte externa */
+    @font-face {
+      font-family: 'oldNews';
+      src: url('oldNewspaper.ttf');
+    }
+
+
+    /* Player de vídeo */
+    video {
+      width: 750px;
+    }
+
+    /* Textos, utilizei o nativo pra facilitar */
+    h1{
+        color: white;
+        text-align: center;
+        font-family: 'oldNews';
+
+    }
+
+    h2{
+        color: white;
+        text-align: center;
+        width: 50%;
+        font-family: 'oldNews';
+    }
+
+    h3{
+        color: white;
+        text-align: justify;
+        width: 35%;
+        font-family: 'oldNews';
+    }
+
+    /* editando a class que do final */
+    .socialMedia{
+        color: white;
+        text-align: center;
+        width: 35%;
+        font-family: 'oldNews';
+        font-size: 20px;
+    }
+
+    /* colocando a imagem de fundo */
+    body{
+    background-image:url('backgroudRoots.png');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: 100%;
+    background-color: black;
+    }
+
+    /* Todas as imagens ficaram em uma mesma class */
+    .image-class {
+    transition: transform 0.3s;
+    }
+
+    .image-class:hover {
+    transform: scale(1.1);
+    }
+
+    /* Linha final para direitos autorais */
+    .linha-final {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(48, 48, 48);
+    }
+
+  </style>
+  <!-- Título da página na aba -->
+  <title>Queira Eu</title>
+  <!-- Essa página serve para ser o ponto final de redirecionamento das redes sociais @queiraeu. -->
+</head>
+<body>
+  <div class="corpo">
+    <!-- Título da página -->
+    <h1>Acesso ao e-book gratuito logo abaixo!</h1>
+
+    <!-- Legenda para explicação do vídeo -->
+    <h2>Drops de Menta reflete um pecado do homem.<br><br>
+    </h2>
+    <!-- Vídeo player com voz feita com I.A (text-to-speech)-->
+    <video controls>
+      <source src="video.mp4" type="video/mp4">
+    <!-- Caso o navegador não suporte o vídeo, cai aqui -->
+      Seu navegador não suporta o elemento de vídeo.
+    </video><br><br><br>
+
+    <!-- Texto de descrição, introdução ao artista -->
+    <h3>Sobre o autor:<br><br>
+      Sou Henrique, um artista independente de 24 anos. Tendo crescido em um bar, costumo dizer que minha infância foi bastante peculiar. Passei horas conversando com loucos, apaixonados e bêbados, encontrando um pouco de mim em cada um deles. Meus pais construíram um castelo com muito esforço e suor. No entanto, hoje em dia, devo confessar que minha alegria está em outro lugar. Apesar das discordâncias que possam surgir, muitas coisas mudaram ao longo do tempo e essas pessoas, mesmo que eu não goste, influenciaram significativamente o meu crescimento. Desde 2015, dedico-me como entusiasta à escrita e somente em 2021 decidi "publicar" meu livro "Espinhos de uma Rosa Carmesim". Devido à falta de recursos financeiros, por enquanto, ele será disponibilizado apenas em formato digital. Caso eu tivesse que fazer uma propaganda, seria algo como: "Este é o primeiro livro do autor, ainda em formato digital. O objetivo desta obra é apresentar a minha arte, que conta com poemas únicos do ano de 2018." Antes de iniciar a leitura, é importante deixar claro que essas palavras foram escritas há alguns anos, e hoje em dia minhas ideias, pensamentos e ideologias sobre 99% das coisas são diferentes. Sinto como se meu cérebro tivesse passado por um completo reset. Descobri um novo e pleno propósito. Espero que aprecie essa versão antiga de mim mesmo.
+    </h3>
+    
+    <!-- Trechos para amostra do conteúdo -->
+    <h3>
+      Trechos do Livro:<br><br>
+    "...Um maço com suas verdades, um copo, dois corações de gelo, gelando uma dose de diálogo, continuo sentindo a sensação de abstinência. Quanto a vocês, esperanças, me provaram ser regáveis, porém totalmente infrutíferas…"
+    <br><br>
+    "...Se é pra ter um estilo, admiro quem tem o próprio. Quem tem rótulo, tem preço e prazo de validade…"
+    <br><br>
+    "...No século onde estamos presos a tomadas, onde falta a tomada de decisões..."
+    <br><br>
+    </h3>
+    
+    <!-- Chamada pra ação -->
+
+    <h1>Acesso abaixo!</h1>
+
+    <a href="https://drive.google.com/file/d/1ihCby04mfDgd0gVUvcYNWCrhNE3rlMg5/view?usp=sharing">
+      <img class="image-class" src="imagemRedirecionamento.png" alt="imagem redirecionamento" width="300" height="300">
+    </a>
+
+    <!-- Redirecionamento para Rede Sociai e Copyright -->
+    <div class="socialMedia">
+      <p>Agradeço sua atenção até aqui.</p><br>
+      <a href="https://www.instagram.com/queira_eu/">
+        <img class="image-class" src="instagramLogo.png" alt="logo ig" width="40" height="40">
+      </a>
+      <br><br>
+        <div class="linha-final"><p>Todos os direitos reservados. ©2023 Queira Eu.</div>
+    </div>
+  </div>
+  
+</body>
+</html>
+
+<!-- 
+
+• Utilizei os conhecimentos transmitidos pelos professores Fabricio Bueno Borges dos Santos
+  e Simone Regina da Silva durante o Programando o Futuro 2023 no desenvolvimento.
+
+• Fontes:
+  • Tecnologias: HTML e CSS.
+  • Fontes dos textos: https://www.dafont.com/pt/.
+  • Fonte da logo: https://www.canva.com/.
+  • Fonte do desenho do "dorso de esqueleto cheirando rosa":
+    Criado pelo artista e tatuador local, conhecido como Jesus. Instagram: j_e_s_v_s.
+  • Fontes das artes do e-book e favicon: Geradores de fotos da Internet Genéricos.
+
+ -->
