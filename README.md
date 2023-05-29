@@ -8,7 +8,7 @@
    
 • Fontes:   
   • Tecnologias: HTML e CSS.   
-  • Fontes dos textos: https://www.dafont.com/pt/.   
+  • Fonte dos texto: https://www.dafont.com/pt/.   
   • Fonte da imagem de redirecionamento e logo: https://www.canva.com/.   
   • Fonte do desenho do "dorso de esqueleto cheirando rosa":   
     Criado pelo artista e tatuador local, conhecido como Jesus. Instagram: j_e_s_v_s.   
