@@ -43,7 +43,7 @@ Exemplos:
 💰 Inclusão de um botão de compra visível.   
 🔥 Frase persuasiva no botão.   
 
-Link com a postagem sobre a topologia: [CLIQUE AQUI](https://www.linkedin.com/posts/henriquegnu_marketing-redessociais-vendas-activity-7069492580547239937-R4pn?utm_source=share&utm_medium=member_desktop)
+Link com a postagem sobre a topologia: [CLIQUE AQUI](https://www.linkedin.com/posts/henriquegnu_marketing-redessociais-vendas-activity-7069492580547239937-R4pn?utm_source=share&utm_medium=member_desktop)   
 Imagem abaixo:
 <p>
   <img src="Funil AIDA + Remarketing.png" width="350" title="Funil AIDA + Remarketing">
