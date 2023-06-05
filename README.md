@@ -2,6 +2,9 @@
 
 ## Projeto Final curso Projeto [Programando o Futuro - Turma 2023A](https://amureltec.com.br/programandoofuturo/)   
 
+Link de Acesso: [queiraeu.com.br](https://queiraeu.com.br/)   
+Feito para desktop 1920x1050, fica desregulado em alguns tamanhos e em mobile, apenas protótipo.
+
 
 • Utilizei os conhecimentos transmitidos pelos professores Fabricio Bueno Borges dos Santos   
   e Simone Regina da Silva durante o Programando o Futuro 2023 no desenvolvimento.   
