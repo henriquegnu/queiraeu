@@ -50,4 +50,14 @@ Link com a postagem sobre a topologia: [CLIQUE AQUI](https://www.linkedin.com/po
 Imagem abaixo:
 <p>
   <img src="Funil AIDA + Remarketing.png" width="350" title="Funil AIDA + Remarketing">
-</p>
+</p>   
+Imagens apresentação final:
+
+<p>
+  <img src="foto sozinho.jpg" width="350" title="Foto Sozinho">
+</p>   
+
+<p>
+  <img src="progFuturo.jpg" width="350" title="Foto Grupo">
+</p>   
+Nota final 10.0
