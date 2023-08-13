@@ -10,7 +10,7 @@ Feito para mobile, fica desregulado em alguns tamanhos e em desktop, apenas prot
   e Simone Regina da Silva durante o Programando o Futuro 2023 no desenvolvimento.   
    
 • Fontes:   
-  • Tecnologias: HTML e CSS.   
+  • Tecnologias: HTML e CSS, para melhorar o tempo, não vou matar uma formiga com um canhão.   
   • Fonte dos texto: https://www.dafont.com/pt/.   
   • Fonte da imagem de redirecionamento e logo: https://www.canva.com/.   
   • Fonte do desenho do "dorso de esqueleto cheirando rosa":   
