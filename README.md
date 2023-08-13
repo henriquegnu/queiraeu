@@ -3,7 +3,7 @@
 ## Projeto Final curso Projeto [Programando o Futuro - Turma 2023A](https://amureltec.com.br/programandoofuturo/)   
 
 Link de Acesso: [queiraeu.com.br](https://queiraeu.com.br/)   
-Feito para desktop 1920x1050, fica desregulado em alguns tamanhos e em mobile, apenas protótipo.
+Feito para mobile, fica desregulado em alguns tamanhos e em desktop, apenas protótipo para testar o lead capturado no instagram.
 
 
 • Utilizei os conhecimentos transmitidos pelos professores Fabricio Bueno Borges dos Santos   
