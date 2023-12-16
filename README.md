@@ -2,7 +2,6 @@
 
 ## Projeto Final curso Projeto [Programando o Futuro - Turma 2023A](https://amureltec.com.br/programandoofuturo/)   
 
-Link de Acesso: [queiraeu.com.br](https://queiraeu.com.br/)   
 Feito para mobile, fica desregulado em alguns tamanhos e em desktop, apenas protótipo para testar o lead capturado no instagram.
 
 
